@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FFF59D</color>
+    <color name="play_button_background">#5F5C5C</color>
+    <color name="select_category_background">#81C784</color>
+    <color name="select_category_heading_text">#F80B0B</color>
+    <color name="card_view_background">#8393E4</color>
+    <color name="answer_options_button_background">#C5E1A5</color>
+</resources>

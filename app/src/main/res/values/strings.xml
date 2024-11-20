@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kids Quiz</string>
+    <string name="play_button">Start Quiz</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_category_play_button">Play</string>
+    <string name="select_category_animals">Animals</string>
+    <string name="select_category_birds">Birds</string>
+    <string name="select_category_fruits">Fruits</string>
+    <string name="select_category_vegetables">Vegetables</string>
+    <string name="answer_option_one">Option 1</string>
+    <string name="answer_option_two">Option 2</string>
+    <string name="answer_option_three">Option 3</string>
+    <string name="answer_option_four">Option 4</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="score">Your score</string>
+</resources>
